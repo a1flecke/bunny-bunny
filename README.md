@@ -33,8 +33,8 @@ Simply run the slash command:
 ## Development
 
 This plugin follows the Claude Code plugin structure:
-- `.claude/commands/` - Contains slash command markdown files
-- `.claude-plugin/manifest.json` - Plugin metadata and configuration
+- `commands/` - Contains slash command markdown files
+- `.claude-plugin/plugin.json` - Plugin metadata and configuration
 
 ## License
 

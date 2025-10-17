@@ -3,10 +3,5 @@
   "version": "1.0.0",
   "description": "A plugin that prints cute ASCII bunnies",
   "author": "Aaron Fleckenstein",
-  "commands": [
-    {
-      "name": "print-bunny",
-      "description": "Print a cute ASCII bunny"
-    }
-  ]
+  "license": "MIT"
 }
